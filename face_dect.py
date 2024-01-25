@@ -1,6 +1,5 @@
 #install open cv, 
 #pip install python-opencv *maybe add -headless
-#amazon price dector
 
 
 import cv2
